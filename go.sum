@@ -1,0 +1,5 @@
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/microsoft/azure-devops-go-api v1.0.0-b1 h1:Te1TZi3YTO+lnGdzy0s2Dt2/YQqbk9/qrhS0lKUUFNM=
+github.com/microsoft/azure-devops-go-api/azuredevops v1.0.0-b3 h1:5iyKm9Mzp0NbKLVHP6PZbigCAzvOYq/pAaMyc8KpNLs=
+github.com/microsoft/azure-devops-go-api/azuredevops v1.0.0-b3/go.mod h1:PoGiBqKSQK1vIfQ+yVaFcGjDySHvym6FM1cNYnwzbrY=
